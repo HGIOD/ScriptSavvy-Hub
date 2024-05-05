@@ -392,7 +392,7 @@ Tab:AddTextbox({
 		print(Value)
 	end	  
 })
-
+OrionLib:Init()
 --[[
 Name = <string> - The name of the textbox.
 Default = <string> - The default value of the textbox.
